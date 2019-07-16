@@ -23,6 +23,14 @@ public class VisibilityDemo {
                 }
             }
 
+//            if(!toCancel){
+//                while (true){
+//                    if (doExecute()){
+//                        break;
+//                    }
+//                }
+//            }
+
 
             if(toCancel){
                 System.out.println("sys is canceled");
